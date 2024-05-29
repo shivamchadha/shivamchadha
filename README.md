@@ -24,7 +24,7 @@
 **OR**  
 Reach out to me at **f20190704 [AT] goa.bits-pilani.ac.in**
 
-I am open to any any collaboration work related machine learning (development or research)
+I am open to any collaboration work related to machine learning (development or research)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
