@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://shivamchadha.github.io">Hi, I'm Shivam</a></h1>
-<h3 align="center">I'm a final year undergraduate at BITS Goa</h3>
+<h3 align="center">I'm a recent graduate from BITS Goa</h3>
 
 
 
